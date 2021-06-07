@@ -1,0 +1,19 @@
+Variables,Missing_percentage
+route_id,0.0
+route_name,0.0
+minute,0.0
+weekofyear,0.0
+time,0.0
+month,0.0
+day,0.0
+year,0.0
+"('trip_start_time',)",0.0
+unscheduled_trip,0.0
+scheduled_end_time,0.0
+scheduled_start_time,0.0
+approximate_route_length_km,0.0
+vehicle_id,0.0
+trip_start_time,0.0
+trip_name,0.0
+trip_id,0.0
+waiting time,0.0
